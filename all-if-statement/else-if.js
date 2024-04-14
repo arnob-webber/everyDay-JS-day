@@ -7,3 +7,5 @@ if (Uhave >= 500) {
 } else {
   console.log("bhai u can eat only normal rice and curry");
 }
+
+
