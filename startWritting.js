@@ -4,4 +4,6 @@ function examStart() {
     console.log("start witing")
 }
 
+if (){}
+
 setTimeout(examStart, 2000)
