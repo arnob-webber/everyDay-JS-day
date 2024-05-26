@@ -4,6 +4,6 @@ if (student[0].length < 2) {
   console.log("he is op");
 } else {
   for (let arryLoop = student[2].length < 20; arryLoop < 4; arryLoop++) {
-    console.log("vag");
+    console.log("he is a webber");
   }
 }
