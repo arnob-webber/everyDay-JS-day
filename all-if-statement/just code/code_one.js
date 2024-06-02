@@ -16,8 +16,6 @@ const totalMark = numBr + EnglishnumBr + BanglanumBr + Social_science_numBr;
 
 if (totalMark > 132) {
   console.log("you are pass");
-}
-
-else {
-    console.log('sorry you r fail')
+} else {
+  console.log("sorry you r fail");
 }
