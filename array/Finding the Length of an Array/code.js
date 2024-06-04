@@ -22,3 +22,11 @@ let y = 5;
 if (x / y >= 5) {
   console.log('that"s good');
 }
+
+
+
+let myShoping = ['shirt', 'pant', 'genji', 'watch']
+
+let shrit = 20;
+
+console.log(myShoping.[0])
